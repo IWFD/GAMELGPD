@@ -1,0 +1,3 @@
+# GAMELGPD
+
+Jogo para LGPD
